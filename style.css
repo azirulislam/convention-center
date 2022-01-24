@@ -16,5 +16,13 @@ body{
 .link-icon a img{
     width: 120px;
     height: 40px;
-  
+}
+.link-icon{
+    margin-left: 500px;
+}
+.footer-wrap p{
+    color: aliceblue;
+}
+.container{
+    padding-bottom: 10px;
 }
