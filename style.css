@@ -4,3 +4,17 @@ body{
 .our-package{
     padding: 70px;
 }
+.btn a{
+    text-decoration: none;
+}
+#accordionPanelsStayOpenExample{
+   
+}
+.people-png img{
+    margin-left: 40px;
+}
+.link-icon a img{
+    width: 120px;
+    height: 40px;
+  
+}
